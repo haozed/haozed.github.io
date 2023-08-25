@@ -114,3 +114,7 @@ body {
   font-weight: 300;
   margin: var(--m) var(--s);
 }
+
+.techStack {
+  line-height: 10px;
+}
